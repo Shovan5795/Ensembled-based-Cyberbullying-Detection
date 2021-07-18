@@ -1,4 +1,6 @@
 # Ensembled-based-Cyberbullying-Detection
+Paper Title: Cyberbullying Detection: An Ensemble Based Machine Learning Approach
+
 Research on cyberbullying detection is gaining increasing attention in recent years as both individual victims and societies are greatly affected by it. Moreover, ease of access to
 social media platforms such as Facebook, Instagram, Twitter, etc. has led to an exponential increase in the mistreatment of people in the form of hateful messages, bullying, sexism, racism,
 aggressive content, harassment, toxic comment etc. Thus there is an extensive need to identify, control and reduce the bullying contents spread over social media sites, which has motivated
@@ -23,5 +25,8 @@ Comparative Analysis
 
 Cross-Validation Result
 ![image](https://user-images.githubusercontent.com/77354495/126079174-9b2b5ebc-7673-4997-b193-df7e7af16089.png)
+
+Please cite this paper if you want to use the codes:
+K. S. Alam, S. Bhowmik and P. R. K. Prosun, "Cyberbullying Detection: An Ensemble Based Machine Learning Approach," 2021 Third International Conference on Intelligent Communication Technologies and Virtual Mobile Networks (ICICV), 2021, pp. 710-715, doi: 10.1109/ICICV50876.2021.9388499.
 
 
