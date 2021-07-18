@@ -16,6 +16,12 @@ PREPROCESS STEPS:
 VOTING ARCHITECTURE:
 ![SLE and DLE](https://user-images.githubusercontent.com/77354495/126079138-a0bb78c1-64be-42ea-ac9c-f63174aacd3f.png)
 
+RESULT:
 
+Comparative Analysis
+![image](https://user-images.githubusercontent.com/77354495/126079154-7e589e97-6928-4f3b-a6f1-efa0dcff32d5.png)
+
+Cross-Validation Result
+![image](https://user-images.githubusercontent.com/77354495/126079174-9b2b5ebc-7673-4997-b193-df7e7af16089.png)
 
 
